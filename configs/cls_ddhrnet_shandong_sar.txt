@@ -1,0 +1,5 @@
+farmland,grass
+greenery
+road
+building
+water

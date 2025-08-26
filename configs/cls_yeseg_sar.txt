@@ -1,0 +1,6 @@
+bareground,barren
+grass,farmland
+dense tree cover
+city
+water
+roadway

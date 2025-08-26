@@ -1,0 +1,6 @@
+background
+city
+road
+water,river
+forest
+cropland

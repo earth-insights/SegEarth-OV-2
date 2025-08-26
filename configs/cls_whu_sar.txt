@@ -1,0 +1,7 @@
+farmland
+city
+village
+water
+forest
+road
+others
