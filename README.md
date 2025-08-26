@@ -2,7 +2,7 @@
 
 <h1>Annotation-Free Open-Vocabulary Segmentation for Remote-Sensing Images</h1>
 
-#### We extend [SegEarth-OV](https://github.com/likyoo/SegEarth-OV) to SAR images. This is the first open vocabulary semantic segmentation work for SAR images.
+### We extend [SegEarth-OV](https://github.com/likyoo/SegEarth-OV) to SAR images. This is the first OVSS work for SAR images.
 
 <div>
     <a href='https://likyoo.github.io/' target='_blank'>Kaiyu Li</a>&emsp;
